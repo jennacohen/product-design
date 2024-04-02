@@ -4,7 +4,7 @@
 
 ### [2024 Primary and Caucus Elections](https://www.pbs.org/newshour/elections-2024/primaries)
 
-Ahead of the already contentious presidential election in November, I worked with NewsHour engineers to prototype and designa hub for coverage about this year's primaries and caucuses.
+Ahead of the already contentious presidential election in November, I worked with NewsHour engineers to prototype and design a hub for coverage about this year's primaries and caucuses.
 
 **My role:**
 
@@ -20,7 +20,7 @@ Ahead of the already contentious presidential election in November, I worked wit
 
 ### [Printing Hate Investigation](https://lynching.cnsmaryland.org/)
 
-Printing Hate is an investigation into how white-owned newspapers have aided and abetted lynchings since 1865. As a Digital and Graphics Designer, my team and I developed the site with the intention of telling the story the moment a user lands on the page, using a motion graphic embedded as a site topper to help achieve this goal. Our design also included several story page layouts and an interactive database.
+Printing Hate is an investigation into how white-owned newspapers have aided and abetted lynchings since 1865. My team and I developed the site with the intention of telling the story the moment a user lands on the page. Our design includes several story page layouts and an interactive database.
 
 **My role:**
 
