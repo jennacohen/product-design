@@ -37,7 +37,7 @@ Printing Hate is an investigation into how white-owned newspapers have aided and
 
 ### [Quiz: Are You A Smart Shopper?](https://www.pbs.org/newshour/features/smart-shopping-quiz/)
 
-As food prices have risen due to factors such as inflation, I worked with members of the NewsHour digital and product team to design, prototype and develop an interactive web page where users can watch and read to learn how to best shop on a budget, then take our quiz to test their skills. The interactive was designed responsively for desktop & mobile UI and led our site for engagement time on a single page during the week following publication. It was also featured on our [broadcast program](https://www.youtube.com/watch?v=emErLPu0-O0&t=12s).
+As food prices have risen due to factors such as inflation, I worked with members of the NewsHour digital and product team to design [desktop](https://www.figma.com/proto/YmvmeWg0NScrOaoy3c8n3G/Smart-shopping?type=design&node-id=261-3230&t=GKXNvlmaGNoJDwKU-0&scaling=min-zoom&starting-point-node-id=261%3A3230&show-proto-sidebar=1) and [mobile](https://www.figma.com/proto/YmvmeWg0NScrOaoy3c8n3G/Smart-shopping?type=design&node-id=1262-45166&t=GKXNvlmaGNoJDwKU-0&scaling=min-zoom&starting-point-node-id=1262%3A45166&show-proto-sidebar=1) UI prototypes for an interactive feature where users could watch and read to learn how to best shop on a budget, then take our quiz to test their skills. The interactive led our site for engagement time on a single page during the week following publication. It was also featured on our [broadcast program](https://www.youtube.com/watch?v=emErLPu0-O0&t=12s).
 
 **My role:**
 
@@ -47,6 +47,5 @@ As food prices have risen due to factors such as inflation, I worked with member
 - Mobile & Desktop Design
 - Sketching & Illustration
 - Layout
-- Strategic Product Thinking
 - Typography
 - Color Theory
