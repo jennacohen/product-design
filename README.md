@@ -16,23 +16,6 @@ Ahead of the already contentious presidential election in November, I worked wit
 - Layout
 - Strategic Product Thinking
 
-<a href="https://lynching.cnsmaryland.org/"><kbd><img src="images/ph.jpg" alt="Printing Hate website thumbanil" width="250px"></kbd></a>
-
-### [Printing Hate Investigation](https://lynching.cnsmaryland.org/)
-
-Printing Hate is an investigation into how white-owned newspapers have aided and abetted lynchings since 1865. My team and I developed the site with the intention of telling the story the moment a user lands on the page. Our design includes several story page layouts and an interactive database.
-
-**My role:**
-
-- Branding development: Photoshop, Illustrator
-- Prototyping: Figma, XD
-- Interface design and development: HTML, CSS, GitHub, WordPress
-- Animation and video editing: After Effects, Premiere
-- Mobile & Desktop Design
-- Sketching & Illustration
-- Layout
-- User Centered Design
-
 <a href="https://www.pbs.org/newshour/features/smart-shopping-quiz/"><kbd><img src="images/smart-shop.jpg" alt="smart shopping thumbnail" width="250px"></kbd></a>
 
 ### [Quiz: Are You A Smart Shopper?](https://www.pbs.org/newshour/features/smart-shopping-quiz/)
@@ -49,3 +32,20 @@ As food prices have risen due to factors such as inflation, I worked with member
 - Layout
 - Typography
 - Color Theory
+
+<a href="https://lynching.cnsmaryland.org/"><kbd><img src="images/ph.jpg" alt="Printing Hate website thumbanil" width="250px"></kbd></a>
+
+### [Printing Hate Investigation](https://lynching.cnsmaryland.org/)
+
+Printing Hate is an investigation into how white-owned newspapers have aided and abetted lynchings since 1865. My team and I developed the site with the intention of telling the story the moment a user lands on the page. Our design includes several story page layouts and an interactive database.
+
+**My role:**
+
+- Branding development: Photoshop, Illustrator
+- Prototyping: Figma, XD
+- Interface design and development: HTML, CSS, GitHub, WordPress
+- Animation and video editing: After Effects, Premiere
+- Mobile & Desktop Design
+- Sketching & Illustration
+- Layout
+- User Centered Design
