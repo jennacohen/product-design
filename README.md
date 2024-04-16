@@ -25,7 +25,7 @@ As food prices have risen due to factors such as inflation, I worked with member
 **My role:**
 
 - Wireframing and Prototyping: Figma
-- Interface design and development: Figma, Illustrator, HTML, CSS, JavaSCript
+- Interface design and development: Figma, Illustrator, HTML, CSS, JavaScript
 - User flows
 - Mobile & Desktop Design
 - Sketching & Illustration
