@@ -14,8 +14,8 @@ News rebrand</a>, I wireframed and prototyped site page layouts, designed new te
 - Interface design and development: Figma, Illustrator
 - Information Architecture
 - Mobile & Desktop Design
-- Sketching & Illustration
 - Layout
+- Managment and organization: Trello, OneDrive, Google Drive
 
 <a href="https://www.pbs.org/newshour/elections-2024/primaries"><kbd><img src="images/2024-primaries.png" alt="2024 primaries page thumbanil" width="250px"></kbd></a>
 
