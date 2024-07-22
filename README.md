@@ -15,13 +15,14 @@ News rebrand</a>, I wireframed and prototyped site page layouts, designed new te
 - Information Architecture
 - Mobile & Desktop Design
 - Layout
+- User Centered Design
 - Managment and organization: Trello, OneDrive, Google Drive
 
 <a href="https://www.pbs.org/newshour/elections-2024/primaries"><kbd><img src="images/2024-primaries.png" alt="2024 primaries page thumbanil" width="250px"></kbd></a>
 
 ### [2024 Primary and Caucus Elections](https://www.pbs.org/newshour/elections-2024/primaries)
 
-Ahead of the already contentious presidential election in November, I worked with NewsHour engineers to prototype and design a hub for coverage about this year's primaries and caucuses.
+Ahead of the already contentious presidential election in November, I worked with PBS News engineers to prototype and design a hub for coverage about this year's primaries and caucuses.
 
 **My role:**
 
@@ -37,7 +38,7 @@ Ahead of the already contentious presidential election in November, I worked wit
 
 ### [Quiz: Are You A Smart Shopper?](https://www.pbs.org/newshour/features/smart-shopping-quiz/)
 
-As food prices have risen due to factors such as inflation, I worked with members of the NewsHour digital and product team to design [desktop](https://www.figma.com/proto/YmvmeWg0NScrOaoy3c8n3G/Smart-shopping?type=design&node-id=261-3230&t=GKXNvlmaGNoJDwKU-0&scaling=min-zoom&starting-point-node-id=261%3A3230&show-proto-sidebar=1) and [mobile](https://www.figma.com/proto/YmvmeWg0NScrOaoy3c8n3G/Smart-shopping?type=design&node-id=1262-45166&t=GKXNvlmaGNoJDwKU-0&scaling=min-zoom&starting-point-node-id=1262%3A45166&show-proto-sidebar=1) UI prototypes for an interactive feature where users could watch and read to learn how to best shop on a budget, then take our quiz to test their skills. The interactive led our site for engagement time on a single page during the week following publication. It was also featured on our [broadcast program](https://www.youtube.com/watch?v=emErLPu0-O0&t=12s).
+As food prices have risen due to factors such as inflation, I worked with members of the PBS News digital and product team to design [desktop](https://www.figma.com/proto/YmvmeWg0NScrOaoy3c8n3G/Smart-shopping?type=design&node-id=261-3230&t=GKXNvlmaGNoJDwKU-0&scaling=min-zoom&starting-point-node-id=261%3A3230&show-proto-sidebar=1) and [mobile](https://www.figma.com/proto/YmvmeWg0NScrOaoy3c8n3G/Smart-shopping?type=design&node-id=1262-45166&t=GKXNvlmaGNoJDwKU-0&scaling=min-zoom&starting-point-node-id=1262%3A45166&show-proto-sidebar=1) UI prototypes for an interactive feature where users could watch and read to learn how to best shop on a budget, then take our quiz to test their skills. The interactive led our site for engagement time on a single page during the week following publication. It was also featured on our [broadcast program](https://www.youtube.com/watch?v=emErLPu0-O0&t=12s).
 
 **My role:**
 
