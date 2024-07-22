@@ -1,5 +1,22 @@
 # Jenna Cohen - Work Samples
 
+<a href="https://www.pbs.org/newshour"><kbd><img src="images/rebrand.png" alt="PBS News Rebrand thumbanil" width="250px"></kbd></a>
+
+### [PBS News Rebrand](https://www.pbs.org/newshour)
+
+In preparation for the <a
+                href="https://www.pbs.org/newshour/press-releases/pbs-news-hour-debuts-new-studio-with-updated-logo-treatments-and-motion-graphics-will-rebrand-digital-and-social-efforts-as-pbs-news-week-of-june-17">PBS
+News rebrand</a>, I wireframed and prototyped site page layouts, designed new templates for our web, social and video content, and oversaw the distribution of our design library materials across our broadcast and digital teams.
+
+**My role:**
+
+- Wireframing and Prototyping: Figma
+- Interface design and development: Figma, Illustrator
+- Information Architecture
+- Mobile & Desktop Design
+- Sketching & Illustration
+- Layout
+
 <a href="https://www.pbs.org/newshour/elections-2024/primaries"><kbd><img src="images/2024-primaries.png" alt="2024 primaries page thumbanil" width="250px"></kbd></a>
 
 ### [2024 Primary and Caucus Elections](https://www.pbs.org/newshour/elections-2024/primaries)
